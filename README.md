@@ -1,4 +1,4 @@
-== Prestashop PayZippy Payment Gateway ==
+-->> Prestashop PayZippy Payment Gateway <<-- 
 
 For support and installation feel free to drop at lov.singh@live.com
 Version: 1.0.4
